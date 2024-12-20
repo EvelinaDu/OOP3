@@ -103,6 +103,7 @@ Paleidus programą jūs pamatysite pasirinkimą dėl **duomenų struktūros**, r
 - ***v1.5*** versija papildyta bazine (abstrakčia) klase 'Zmogus' ir jos išvestine (derived) klase - Studentas. 'Zmogaus' klasė yra abstrakčioji klasė, tai yra negalima sukurti žmogaus tipo objektų, tačiau galima sukurti objektus iš jos išvestinės, 'Studento' klasės.
 
 - ***v2.0*** versija papildyta doxygen kodo dokumentacija, dokumencija sukurta 'html' ir 'latex' formatu. Realizuoti Unit Testai naudojant Google testus (https://github.com/google/googletest). Atliktas testavimas: konstruktoriui su parametrais, priskyrimo operatoriui, galutinio įvertinimo apskaičiavimui pagal vidurkį, galutinio įvertinimo apskaičiavimui pagal medianą.
+- ***v2.0*** verisja papildyta diegimo setup.exe failu.
 
 ## Strategijų aprašymas: (Skirtos studentų skaidymui į dvi grupes)
 
