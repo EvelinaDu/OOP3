@@ -5,16 +5,17 @@
 Naudojant diegimo failą - setup.exe
 Norint įdiegti ir paleisti programą naudojant setup.exe sekite šiuos žingsnius: 
 
-Atsisiųskite naujausią versiją v3.0, ją rasite nueidami į "Releaase", pasirinkite v3.0 versiją ir paspauskite ant Source code (zip);
-Atsisiuntus, išskleiskite failą;
-Dukart spustelijus paleiskite setup.exe failą;
-Pasirodžius langui, prašančiam administratoriaus teisių, paspauskite "YES", tada spustelėkite „Next“ (Kitas), kad tęstumėte diegimą;
-Kai diegimas bus baigtas, paspauskite „Finish“ (Baigti), kad uždarytumėte diegimo vedlį;
-Paleiskite programą iš pradžios meniu arba spustelėkite ant darbalaukyje atsiradusios piktogramos.
+- Atsisiųskite naujausią versiją v3.0, ją rasite nueidami į "Releaase", pasirinkite v3.0 versiją ir paspauskite ant Source code (zip);
+- Atsisiuntus, išskleiskite failą;
+- Dukart spustelijus paleiskite setup.exe failą;
+- Pasirodžius langui, prašančiam administratoriaus teisių, paspauskite "YES" (Taip), tada spustelėkite „Next“ (Kitas), kad tęstumėte diegimą;
+- Kai diegimas bus baigtas, paspauskite „Finish“ (Baigti), kad uždarytumėte diegimo vedlį;
+- Paleiskite programą iš pradžios meniu arba spustelėkite ant darbalaukyje atsiradusios piktogramos.
+
 Norint pašalinti programą sekite šiuos žingsnius:
 
-Susiraskite programą program files aplankale ("C:/Program files (x86)/VU/Evelina-Dudutyte");
-Dukart spustelėkite ant unins000.exe failo, sekite vediklio nurodymus.
+- Susiraskite programą program files aplankale ("C:/Program files (x86)/VU/Evelina-Dudutyte");
+- Dukart spustelėkite ant unins000.exe failo, sekite vediklio nurodymus.
 
 ## Kaip naudotis programa:
 
