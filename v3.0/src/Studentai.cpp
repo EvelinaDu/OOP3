@@ -95,7 +95,7 @@ int main() {
             return 1;
         }
         
-        if(ivedimo_skaitymo_p != "S" && ivedimo_skaitymo_p != "T" && ivedimo_skaitymo_p == "D"){
+        if(ivedimo_skaitymo_p != "S" && ivedimo_skaitymo_p != "T" && ivedimo_skaitymo_p != "D"){
             rez_pasirinkimas = pasirinkimas_del_galutinio();
             rusiavimo_p = pasirinkimas_del_rusiavimo();
             isvedimo_pasirinkimas = pasirinkimas_isvedimo();
@@ -174,7 +174,7 @@ int main() {
         }
 
         
-        if(ivedimo_skaitymo_p != "S" && ivedimo_skaitymo_p != "T" && ivedimo_skaitymo_p == "D"){
+        if(ivedimo_skaitymo_p != "S" && ivedimo_skaitymo_p != "T" && ivedimo_skaitymo_p != "D"){
         rez_pasirinkimas = pasirinkimas_del_galutinio();
         rusiavimo_p = pasirinkimas_del_rusiavimo();
         isvedimo_pasirinkimas = pasirinkimas_isvedimo();
